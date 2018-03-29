@@ -1,0 +1,6 @@
+D:\ProjectVisual\AnimeShop\AnimeShop.Common\bin\Debug\AnimeShop.Common.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Common\bin\Debug\AnimeShop.Common.pdb
+D:\ProjectVisual\AnimeShop\AnimeShop.Common\obj\Debug\AnimeShop.Common.csprojResolveAssemblyReference.cache
+D:\ProjectVisual\AnimeShop\AnimeShop.Common\obj\Debug\AnimeShop.Common.csproj.CoreCompileInputs.cache
+D:\ProjectVisual\AnimeShop\AnimeShop.Common\obj\Debug\AnimeShop.Common.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Common\obj\Debug\AnimeShop.Common.pdb

@@ -1,0 +1,15 @@
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Service.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Service.pdb
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Common.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Data.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Model.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Common.pdb
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Data.pdb
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Data.dll.config
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Model.pdb
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\bin\Debug\AnimeShop.Model.dll.config
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\obj\Debug\AnimeShop.Service.csprojResolveAssemblyReference.cache
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\obj\Debug\AnimeShop.Service.csproj.CoreCompileInputs.cache
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\obj\Debug\AnimeShop.Service.csproj.CopyComplete
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\obj\Debug\AnimeShop.Service.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Service\obj\Debug\AnimeShop.Service.pdb

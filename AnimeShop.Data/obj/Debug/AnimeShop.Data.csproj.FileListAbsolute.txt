@@ -1,0 +1,14 @@
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\bin\Debug\AnimeShop.Data.dll.config
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\bin\Debug\AnimeShop.Data.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\bin\Debug\AnimeShop.Data.pdb
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\bin\Debug\AnimeShop.Common.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\bin\Debug\EntityFramework.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\bin\Debug\AnimeShop.Common.pdb
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\bin\Debug\EntityFramework.xml
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\obj\Debug\AnimeShop.Data.csprojResolveAssemblyReference.cache
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\obj\Debug\AnimeShop.Data.csproj.CoreCompileInputs.cache
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\obj\Debug\AnimeShop.Data.csproj.CopyComplete
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\obj\Debug\AnimeShop.Data.dll
+D:\ProjectVisual\AnimeShop\AnimeShop.Data\obj\Debug\AnimeShop.Data.pdb
